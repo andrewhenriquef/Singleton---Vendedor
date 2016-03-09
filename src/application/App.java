@@ -1,6 +1,6 @@
 package application;
 import Client.*;
-import singleton.VendedorSingleton;
+
 
 public class App {
 
